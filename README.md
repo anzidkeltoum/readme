@@ -29,11 +29,11 @@ Mon parcours m'a permis de développer une double compétence : la rigueur de l'
 * **Réalisation :** Création de dashboards interactifs pour le pilotage décisionnel et suivi des dépenses réelles vs prévisionnelles.
 * **Outils :** Power BI, DAX, Excel.
 
-### 3. Interface de Navigation (Type Moodle)
-*Projet Programmation Orientée Objet*
-* **Objectif :** Concevoir une interface utilisateur ergonomique pour la gestion de contenus pédagogiques.
-* **Outils :** Java, Swing/JavaFX.
-
+### 3. Interface de Navigation avec R SHINY
+*Projet stage *
+* **Objectif :** une interface graphique avec R Shiny, conçue pour offrir une visualisation intuitive et interactive des données. Cette interface est déployée sur un serveur web afin de garantir un accès distant et sécurisé.
+* **Outils :**R studio, R Shiny
+* ![Description de l'interface saccades](interfsaccade.PNG)
 ---
 
 ## 📈 Parcours & Engagement
