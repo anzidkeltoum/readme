@@ -56,4 +56,4 @@ Mon parcours témoigne de ma **persévérance** et de ma **capacité de travail*
 
 
 * **Email :** [anzidkeltoum@gmail.com](mailto:anzidkeltoum@gmail.com)
-* **LinkedIn :** [linkedin.com/in/keltoum-anzid](https://www.linkedin.com/in/votre-profil)
+* **LinkedIn :** [[linkedin.com/in/keltoum-anzid](https://www.linkedin.com/in/votre-profil](https://www.linkedin.com/in/keltoum-anzid-819257225/))
